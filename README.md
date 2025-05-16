@@ -1,12 +1,9 @@
-### 🎓 Formado em Análise e Desenvolvimento de Sistemas
 
-### 🔐 Especialização em Segurança da Informação
 
-### 🎥 Criador de conteúdo no YouTube — Tutoriais de programação e tech
 
-### 💼 Buscando oportunidades como Dev Júnior
+### Miguel Vargas Ferreira
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens
 
 <img 
     align="left" 
@@ -43,52 +40,13 @@
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
-/>
-<img 
-    align="left" 
-    alt="Blender" 
-    title="Blender"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Unity" 
-    title="Unity"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Git" 
