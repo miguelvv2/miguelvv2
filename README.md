@@ -58,21 +58,7 @@
 <br/>
 <br/>
 ## 📂Sobre Meus Respositorios:
-1 - Estudo de Programação [Acesse Aqui](https://github.com/SidneiAJr/Prog_dev_est)
 
-2- Desolvimento de Jogos [Acesse Aqui](https://github.com/SidneiAJr/Jogo_Senac_Curso)
-
-3- Projeto do APK Multifunção [Acesse Aqui](https://github.com/SidneiAJr/APK_Multifunc)
-
-4- Projetos Web em JS [Acesse Aqui](https://github.com/SidneiAJr/Front_senac)
-
-5- Portifolio WEB [Acesse Aqui](https://sidneiajr.github.io/Front_senac/pot/)
-
-6- Repositorio 3000TI Senac JS [Acesse Aqui](https://github.com/SidneiAJr/3000TI-Senac-JS)
-
-7- Link para Ferramentas Open source [Acesse Aqui](https://sidneiajr.github.io/OpenSource_WEB_Pag/)
-
-8- TDS [Acesse Aqui](https://github.com/SidneiAJr/TDS_2025)
 
 ### 📊 Estatísticas
 
@@ -80,7 +66,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneiAJr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelvv2r&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
