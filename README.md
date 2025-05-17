@@ -50,7 +50,6 @@
 
 <br/>
 <br/>
-## 📂Sobre Meus Respositorios:
 
 
 ### 📊 Estatísticas
